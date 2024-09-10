@@ -1,4 +1,6 @@
-// Benson Chen      In-Class Lab 1: cout Statements      9/10/2024 //
+// Benson Chen //
+// In-Class Lab 1: cout Statements //
+// 9/10/2024 //
 #include <iostream>
 using namespace std;
 
@@ -23,16 +25,16 @@ int main()
 }
 
 /*[Running] cd "c:\Users\college\Documents\GitHub\lab-1-cout-statements-Benson-Chen-52\" && g++ Chen_Benson_Lab_1.cpp -o Chen_Benson_Lab_1 && "c:\Users\college\Documents\GitHub\lab-1-cout-statements-Benson-Chen-52\"Chen_Benson_Lab_1
-############################################################
+#######################################################################################
+#                                                                                     #
+# Ways to access the Task Manager on your Windows computer:                           #
+#                                                                                     #
+#            Press the key combination Ctrl + Shift + Escape                          #
+#                                                                                     #
+#            Press the key combination Ctrl + Alt + Delete and select “Task Manager”  #
+#                                                                                     #
+#            Type “Task Manager” in the Windows Start menu search                     #
+#                                                                                     #
+#######################################################################################
 
-Ways to access the Task Manager on your Windows computer:
-
-           Press the key combination Ctrl + Shift + Escape
-
-           Press the key combination Ctrl + Alt + Delete and select “Task Manager”
-
-           Type “Task Manager” in the Windows Start menu search
-
-############################################################
-
-[Done] exited with code=0 in 1.766 seconds*/
+[Done] exited with code=0 in 1.617 seconds*/
